@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+<!-- My test for C++-->
+<test>
+    <chapter id="33">
+        <question id="0" type="RadioButton" weight="1">
+            <text>Text of question_1</text>
+            <body>include... </body>
+            <resouses> path </resouses>
+            <answer id="1" type="true">Answer_1</answer>
+            <answer id="2" type="false">Answer_2</answer>
+            <answer id="3" type="false">Answer_3</answer>
+        </question>
+    </chapter>
+    <chapter id="33">
+        <question id="1" type="CheckBox" weight="1">
+            <text>Text of question_2</text>
+            <body>include... </body>
+            <resouses> path </resouses>
+            <answer id="1" type="true">Answer_1</answer>
+            <answer id="2" type="false">Answer_2</answer>
+            <answer id="3" type="false">Answer_3</answer>
+        </question>
+    </chapter>    
+
+</test>    
