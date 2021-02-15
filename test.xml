@@ -11,7 +11,7 @@
             <answer id="3" type="false">Answer_3</answer>
         </question>
     </chapter>
-    <chapter id="33">
+    <chapter id="22">
         <question id="1" type="CheckBox" weight="1">
             <text>Text of question_2</text>
             <body>include... </body>
